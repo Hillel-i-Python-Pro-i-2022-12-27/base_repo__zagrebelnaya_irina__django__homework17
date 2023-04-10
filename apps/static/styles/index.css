@@ -1,0 +1,29 @@
+.my-class-padding {
+    display: flex;
+    padding: 5px;
+}
+.label-class {
+    color:grey;
+}
+
+.field-class {
+    color: darkred;
+}
+.my-color{
+    color:red;
+}
+.my-avatar_info {
+    width: 5em;
+    height: 5em;
+}
+.my-avatar {
+    width: 2em;
+    height: 2em;
+}
+.right{
+    margin-left: 852px;
+}
+.footer{
+    display: flex;
+    margin: 0 auto;
+}
